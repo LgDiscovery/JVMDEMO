@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JVM-上.iml" filepath="$PROJECT_DIR$/.idea/JVM-上.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter01/chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter04/chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter05/chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter06/chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter08/chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter09/chapter09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter11/chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter12/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter13/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter15/chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter16/chapter16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo/chapter17/chapter17.iml" filepath="$PROJECT_DIR$/JVMDemo/chapter17/chapter17.iml" />
+    </modules>
+  </component>
+</project>
